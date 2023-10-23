@@ -1,0 +1,8 @@
+a=int(input("Enter a value for a:"))
+b=int(input("Enter a value for b:"))
+c=a+b
+print(" THE SUM  OF TWO NUMBER IS",c)
+z=a-b
+print("THE SUBRACTION OF TWO NUMBER IS", z)
+h=a*b
+print("THE MULTIPLICATION OF TWO NUMBER IS ", h)
